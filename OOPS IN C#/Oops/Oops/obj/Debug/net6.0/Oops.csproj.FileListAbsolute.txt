@@ -1,0 +1,7 @@
+D:\Dotnet Fullstack\OOPS IN C#\Oops\Oops\obj\Debug\net6.0\Oops.csproj.AssemblyReference.cache
+D:\Dotnet Fullstack\OOPS IN C#\Oops\Oops\obj\Debug\net6.0\Oops.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Fullstack\OOPS IN C#\Oops\Oops\obj\Debug\net6.0\Oops.AssemblyInfoInputs.cache
+D:\Dotnet Fullstack\OOPS IN C#\Oops\Oops\obj\Debug\net6.0\Oops.AssemblyInfo.cs
+D:\Dotnet Fullstack\OOPS IN C#\Oops\Oops\obj\Debug\net6.0\Oops.csproj.CoreCompileInputs.cache
+D:\Dotnet Fullstack\OOPS IN C#\Oops\Oops\obj\Debug\net6.0\Oops.MvcApplicationPartsAssemblyInfo.cs
+D:\Dotnet Fullstack\OOPS IN C#\Oops\Oops\obj\Debug\net6.0\Oops.MvcApplicationPartsAssemblyInfo.cache
